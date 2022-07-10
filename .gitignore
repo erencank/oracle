@@ -1,5 +1,2 @@
 .env
-
-# Terraform
-*.tfvars
-*.tfvars.json
+secrets
