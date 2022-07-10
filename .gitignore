@@ -1,0 +1,5 @@
+.env
+
+# Terraform
+*.tfvars
+*.tfvars.json
